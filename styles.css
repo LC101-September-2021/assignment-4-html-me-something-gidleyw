@@ -5,6 +5,7 @@ p {
     text-align: left;
     text-indent: 30px;
     font-size: small; 
+    margin: auto;
   }
 
 #asv {
@@ -31,7 +32,10 @@ iframe {
     padding: 50px;
 }
 
-header {
+.class {
+    color: green;
+}
+#mainHeader {
     font-family: "Times New Roman", Times, serif;
     background-color: black;
     color: white;
@@ -55,3 +59,4 @@ h3 {
 
 h3.award {
     background-color: gold;
+}
