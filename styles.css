@@ -1,1 +1,62 @@
 /* Write your CSS here! */
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 30px;
+    font-size: small; 
+    margin: auto;
+  }
+
+#asv {
+    background-color: aquamarine;
+  }
+
+#codcw {
+    background-color: darkgreen;
+}
+
+#nba2k21 {
+    background-color: firebrick;
+}
+
+#got {
+    background-color: lightslategrey;
+}
+
+nav {
+    background-color: lightyellow;
+}
+
+iframe {
+    padding: 50px;
+}
+
+.class {
+    color: green;
+}
+#mainHeader {
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 10px;
+    font-size: larger;  
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-indent: 20px;
+    font-size: large;  
+}
+
+h3.award {
+    background-color: gold;
+}
